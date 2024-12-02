@@ -5,7 +5,7 @@ const Header = () => {
     return ( 
         <header>
             <h2 className="logo">
-                JS.
+                AC.
             </h2>
             <nav>
                 <a href="#">projects</a>
