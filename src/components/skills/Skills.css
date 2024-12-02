@@ -1,0 +1,14 @@
+.skills {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    max-width: 360px;
+}
+
+.skill {
+    background-color: #2a2f4c;
+    padding: 0.6rem;
+    border-radius: 3px;
+    color: #90a0d9;
+}

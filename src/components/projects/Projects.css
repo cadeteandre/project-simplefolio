@@ -1,0 +1,22 @@
+.projects {
+    max-width: 1200px;
+}
+
+.show__projects {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+}
+
+.project {
+    padding: 0.3rem 1rem;
+    background-color: #2a2f4c;
+}
+
+.project p {
+    color: #90a0d9;
+}
+
+.project .project__tools {
+    color: #bdbddd;
+}

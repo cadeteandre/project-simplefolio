@@ -1,0 +1,30 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+}
+
+nav {
+    display: flex;
+    gap: 1rem;
+    color: #bdbddd;
+    align-items: center;
+}
+
+nav a {
+    color: #bdbddd;
+}
+
+nav span {
+    font-size: 0.8rem;
+}
+
+header nav img {
+    width: 2.6rem;
+}
+
+
+.logo {
+    color: #cdcdff;
+}

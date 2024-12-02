@@ -1,0 +1,12 @@
+.intro {
+    color: #bdbddd;
+    max-width: 1200px;
+}
+
+.intro h1 span {
+    color: #90a0d9;
+}
+
+.intro p {
+    max-width: 800px;
+}
